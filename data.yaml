@@ -1,0 +1,5 @@
+train: datasets/train/images  # Path to training images
+val: datasets/val/images      # Path to validation images
+
+nc: 1                         # Number of classes
+names: ['strawberry']         # Class names
